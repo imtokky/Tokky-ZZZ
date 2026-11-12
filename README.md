@@ -8,6 +8,8 @@
 - Unlimited Ultimate
 - No Clip
 - Mob Vacuum
+- Max Cinema / Phase
+- Signature W-Engine
 
 ## Combat
 - Multi Hit
