@@ -10,6 +10,8 @@
 - Mob Vacuum
 - Max Cinema / Phase
 - Signature W-Engine
+- Infinite SP
+- Max Skill Level
 
 ## Combat
 - Multi Hit
@@ -17,6 +19,8 @@
 - Kill Aura
 - Instant Stun
 - Unlimited Assist Points
+- Auto Parry
+- Auto Dodge
 
 ## Visuals
 - FOV
