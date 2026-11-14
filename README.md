@@ -1,6 +1,8 @@
 # Tokky-ZZZ
 💤
 
+join my discord server: https://discord.gg/7c38bMcMK5
+
 # Features
 ## Player
 - Speed
