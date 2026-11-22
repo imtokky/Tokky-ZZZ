@@ -40,6 +40,11 @@ join my discord server: https://discord.gg/7c38bMcMK5
 - Instant Win
 - Mini Cargo Track TP
 - Global Speed
+- Containers
+- - Interaction Range
+  - Search Time Multiplier
+  - Instant Open
+  - ESP
 
 ## Misc
 - FPS Unlock
